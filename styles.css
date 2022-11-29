@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+  }
+  h1, h2, p, ul, figcaption{
+    text-align: center;
+  }
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px;
+    padding: 25px;
+    margin-bottom: -10px;
+
+  }
+  hr{
+    border-color: red;
+  }
+  h1{
+    margin-bottom: -8px;
+    font-family: Apple Chancery, cursive;
+  }
+  .list{
+    list-style: none;
+  }
+  
+  
